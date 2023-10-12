@@ -1,4 +1,4 @@
-Xamarin App for Delivery
+Xamarin App with .NET for Delivery
 ## Screenshots
 ### Android
 ![delivery_android](https://user-images.githubusercontent.com/11803107/85937329-d5f0db80-b8d8-11ea-97e4-2ae6b0468010.jpg)
